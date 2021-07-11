@@ -1,6 +1,6 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg? url=https%3A%2F%2Fgithub.com%2Fbcw2104&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)    
-
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbcw2104&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+</div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bcw2104)](https://github.com/anuraghazra/github-readme-stats)
 
