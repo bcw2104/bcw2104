@@ -1,10 +1,11 @@
-### Interest
+#### Interest
 * WEB Backend Develop (Java Base)
 * Android
 * Algorithms
 
-### Blog
-Life & Coding : <http://www.lifencoding.com/>
+#### Blog
+* Life & Coding : <http://www.lifencoding.com/>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbcw2104&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <image src="https://img.shields.io/github/followers/bcw2104?style=social" />
