@@ -4,7 +4,7 @@
 * Algorithms
 
 ### :star: Blog
-* Life & Coding : <http://www.lifencoding.com/>
+* [Life & Coding](http://www.lifencoding.com/)
 
 
 ### :rocket: Tech Stack 
