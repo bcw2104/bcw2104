@@ -1,6 +1,5 @@
 ### :smile: Interest
 * WEB Backend Develop (Java Base)
-* Android
 * Algorithms
 
 ### :star: Blog
