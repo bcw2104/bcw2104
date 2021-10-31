@@ -3,8 +3,10 @@
 * Algorithms
 
 ### :star: Blog
-* [Life & Coding](http://www.lifencoding.com/)
+* [Life & Coding](https://www.lifencoding.com/)
 
+### :star: Portfolio
+* [Portfolio](https://www.lifencoding.com/portfolio.pdf)
 
 ### :rocket: Tech Stack 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
